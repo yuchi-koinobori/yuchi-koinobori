@@ -1,4 +1,4 @@
-## Hi there, I'm Yu-Chi Lee 👋
+## Hi there, I'm Yu-Chi 👋
 
 
 <!--
