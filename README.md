@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Yu-Chi Lee 👋
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchi-koinobori&show_icons=true&theme=radical)
 
 <!--
 **yuchi-koinobori/yuchi-koinobori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
